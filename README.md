@@ -1,4 +1,4 @@
-# OpenNative 1.x golang library
+# OpenNative 1.x golang library [![Go Report Card](https://goreportcard.com/badge/github.com/geniusrabbit/opennative)](https://goreportcard.com/report/github.com/geniusrabbit/opennative)
 
 > License Apache 2.0
 
